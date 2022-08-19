@@ -1,5 +1,4 @@
-# PyMacros
-# This is a simple tutorial demonstrating the use of macros in python to run code locally or remotely. You choose, :-)
+# PyMacros - This is a simple tutorial demonstrating the use of macros in python to run code locally or remotely. You choose, :-)
 
 ### Once you've downloaded the script, you may customise the delay time as to when the mouse-pointer location will be captured by changing the sleep time.
 
